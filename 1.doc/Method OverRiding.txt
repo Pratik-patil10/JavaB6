@@ -1,0 +1,6 @@
+Method OverRiding
+1. when parent and child class having ditto methods then Method overriding happens
+2. static method can not overridden
+3. main method can not overridden
+4. constuctor can not overridden
+5. overRiding can no possible by changing return type
